@@ -2,6 +2,9 @@ language: javascript
 
 install: true
 
+
+script: ant build
+
 notifications:
   email:
     recipients:
