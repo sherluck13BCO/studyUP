@@ -3,7 +3,7 @@ language: javascript
 install: true
 
 
-script: ant build
+script: ant -version
 
 notifications:
   email:
